@@ -9,5 +9,5 @@ import com.pwd.ceubclinic.model.Doctor;
 
 public interface DoctorService {
     
-    ResponseEntity<List<Doctor>> listDoctor();
+    ResponseEntity<List<Doctor>> listDoctor(String name, String specialty);
 }
