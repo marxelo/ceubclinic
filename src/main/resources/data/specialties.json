@@ -1,0 +1,223 @@
+[
+    {
+      "name": "Cardiologia",
+      "doctors": [
+        "Ana Maria Silva Souza",
+        "Laura Sophia Costa Ferreira",
+        "Ana Souza"
+      ]
+    },
+    {
+      "name": "Clínica Geral",
+      "doctors": [
+        "Ana Maria Silva Souza",
+        "Laura Sophia Costa Ferreira"
+      ]
+    },
+    {
+      "name": "Dermatologia",
+      "doctors": [
+        "João Pedro Oliveira Santos",
+        "Marcelo Miguel Araújo Sousa",
+        "Carla Dias"
+      ]
+    },
+    {
+      "name": "Cirurgia Plástica",
+      "doctors": [
+        "João Pedro Oliveira Santos",
+        "Marcelo Miguel Araújo Sousa",
+        "Thiago Ribeiro"
+      ]
+    },
+    {
+      "name": "Endocrinologia",
+      "doctors": [
+        "Bruna Fernanda Costa Araújo",
+        "Natália Alice Rodrigues Dias",
+        "Carla Dias"
+      ]
+    },
+    {
+      "name": "Ginecologia e Obstetrícia",
+      "doctors": [
+        "Bruna Fernanda Costa Araújo",
+        "Natália Alice Rodrigues Dias",
+        "Helena Rodrigues"
+      ]
+    },
+    {
+      "name": "Gastroenterologia",
+      "doctors": [
+        "Carlos Alberto Rodrigues Mendes",
+        "Otávio Pedro Mendes Gomes",
+        "Eduardo Oliveira"
+      ]
+    },
+    {
+      "name": "Medicina Interna",
+      "doctors": [
+        "Carlos Alberto Rodrigues Mendes",
+        "Otávio Pedro Mendes Gomes"
+      ]
+    },
+    {
+      "name": "Neurologia",
+      "doctors": [
+        "Diana Beatriz Nunes Gomes",
+        "Pamela Beatriz Nunes Campos",
+        "Bruno Lima"
+      ]
+    },
+    {
+      "name": "Neurocirurgia",
+      "doctors": [
+        "Diana Beatriz Nunes Gomes",
+        "Pamela Beatriz Nunes Campos"
+      ]
+    },
+    {
+      "name": "Oftalmologia",
+      "doctors": [
+        "Eduardo Henrique Ferreira Campos",
+        "Rafael Henrique Ferreira Lima",
+        "Fernanda Costa"
+      ]
+    },
+    {
+      "name": "Otorrinolaringologia",
+      "doctors": [
+        "Eduardo Henrique Ferreira Campos",
+        "Rafael Henrique Ferreira Lima",
+        "Igor Almeida"
+      ]
+    },
+    {
+      "name": "Pediatria",
+      "doctors": [
+        "Gabriela Isabella Sousa Dias",
+        "Sabrina Isabella Sousa Pereira",
+        "Ana Souza"
+      ]
+    },
+    {
+      "name": "Pneumologia",
+      "doctors": [
+        "Gabriela Isabella Sousa Dias",
+        "Sabrina Isabella Sousa Pereira",
+        "Patrícia Freitas"
+      ]
+    },
+    {
+      "name": "Psiquiatria",
+      "doctors": [
+        "Igor Matheus Silva Lima",
+        "Thiago Matheus Silva Lopes",
+        "Juliana Pereira"
+      ]
+    },
+    {
+      "name": "Psicologia",
+      "doctors": [
+        "Igor Matheus Silva Lima",
+        "Thiago Matheus Silva Lopes",
+        "Juliana Pereira"
+      ]
+    },
+    {
+      "name": "Radiologia",
+      "doctors": [
+        "Jéssica Vitória Oliveira Lopes",
+        "Vanessa Vitória Oliveira Dias",
+        "Otávio Rocha"
+      ]
+    },
+    {
+      "name": "Reumatologia",
+      "doctors": [
+        "Jéssica Vitória Oliveira Lopes",
+        "Vanessa Vitória Oliveira Dias",
+        "Rafael Moreira"
+      ]
+    },
+    {
+      "name": "Urologia",
+      "doctors": [
+        "Kevin Gabriel Santos Pereira",
+        "Gustavo Silva"
+      ]
+    },
+    {
+      "name": "Ortopedia",
+      "doctors": [
+        "Diego Santos"
+      ]
+    },
+    {
+      "name": "Traumatologia",
+      "doctors": [
+        "Diego Santos"
+      ]
+    },
+    {
+      "name": "Nefrologia",
+      "doctors": [
+        "Gustavo Silva"
+      ]
+    },
+    {
+      "name": "Hematologia",
+      "doctors": [
+        "Lucas Teixeira"
+      ]
+    },
+    {
+      "name": "Imunologia",
+      "doctors": [
+        "Mariana Gomes"
+      ]
+    },
+    {
+      "name": "Alergologia",
+      "doctors": [
+        "Mariana Gomes"
+      ]
+    },
+    {
+      "name": "Anestesiologia",
+      "doctors": [
+        "Nelson Barros"
+      ]
+    },
+    {
+      "name": "Diagnóstico por imagem",
+      "doctors": [
+        "Otávio Rocha"
+      ]
+    },
+    {
+      "name": "Tisiologia",
+      "doctors": [
+        "Patrícia Freitas"
+      ]
+    },
+    {
+      "name": "Oncologia",
+      "doctors": [
+        "Sandra Figueiredo"
+      ]
+    },
+    {
+      "name": "Medicina de Família e Comunidade",
+      "doctors": [
+        "Vanessa Leal"
+      ]
+    },
+    {
+      "name": "Infectologia",
+      "doctors": [
+        "William Carvalho"
+      ]
+    }
+  ]
+  

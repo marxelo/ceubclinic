@@ -12,7 +12,7 @@ import com.pwd.ceubclinic.model.Doctor;
 import com.pwd.ceubclinic.service.DoctorService;
 
 @RestController
-@RequestMapping("/api/doctors")
+@RequestMapping("/api/v1/doctors")
 public class DoctorController {
 
     private DoctorService doctorService;
