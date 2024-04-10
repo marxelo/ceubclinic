@@ -28,9 +28,10 @@ public class SpecialtyServiceImpl implements SpecialtyService{
 
             List<Specialty> filteredSpecialties = new  ArrayList<>();
 
-            if ( specialtyName != null) {
+            if ( specialtyName != null && !specialtyName.trim().isEmpty()) {
+                
                 for (Specialty specialty : specialties) {
-                    if (specialty.getName().toLowerCase().contains(specialtyName.toLowerCase())) {
+                    if (specialty.getName().toLowerCase().contains(specialtyName.toLowerCase().trim())) {
                         filteredSpecialties.add(specialty);
                     }
                     
@@ -39,7 +40,7 @@ public class SpecialtyServiceImpl implements SpecialtyService{
 
             }
 
-            if (doctorName != null) {
+            if (doctorName != null && !doctorName.trim().isEmpty()) {
                 filteredSpecialties = new  ArrayList<>();
 
                 for (Specialty specialty : specialties) {
@@ -47,7 +48,7 @@ public class SpecialtyServiceImpl implements SpecialtyService{
                 
                     // Find doctors that match the search string
                     for (String doctor : specialty.getDoctors()) {
-                        if (doctor.toLowerCase().contains(doctorName.toLowerCase())) {
+                        if (doctor.toLowerCase().contains(doctorName.toLowerCase().trim())) {
                             filteredDoctors.add(doctor);
                         }
                     }
