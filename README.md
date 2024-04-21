@@ -1,15 +1,16 @@
 # ceubclinc
 
 Este projeto é parte da atividade de sistematização da disciplina de Programação e Desenvolvimento Web do curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Centro Universitátio de Brasília (CEUB).
+<br  /><br  />
 
 # Solução desenvolvida
 Uma API para acesso à disponibilidade dos profissionais de saúde de uma clínica fictícia que oferece diversos serviços de saúde. 
-
+<br  /><br  />
 
 # Funcionalidades
-- Lista de especilidades atendidas pela clinica com a respectiva lista de profissionais;
+- Lista de especialidades atendidas pela clinica com a respectiva lista de profissionais;
 - Consulta com filtro por especialidade e/ou médico;
-
+<br  /><br  />
 # Executando o projeto
 O projeto foi construído na linguagem Java, versão 17, utilizando o framework Spring, versão 3.2.4. Não foi utilizado banco de dados e os dados estão armazenados em um json localizado na pasta `src/main/resources/data`.
 
